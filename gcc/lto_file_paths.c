@@ -16,6 +16,9 @@
 //  0010 d3016080 22862cb1 72aadc82 794ae193  ..`.".,.r...yJ..
 //  0020 67c6f36a 8e3e5492 6f81b798 236e1b83  g..j.>T.o...#n..
 
+// Looks like this could be related too:
+// https://gcc.gnu.org/pipermail/gcc-patches/2022-November/606205.html
+
 struct A {
 	const char *name;
 };
